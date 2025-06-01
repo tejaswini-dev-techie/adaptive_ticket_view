@@ -1,0 +1,1 @@
+# adaptive_ticket_view
