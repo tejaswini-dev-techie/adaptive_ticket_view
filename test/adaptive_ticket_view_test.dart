@@ -48,7 +48,7 @@ void main() {
 
   testWidgets('AdaptiveTicketView respects showFooter parameter',
       (WidgetTester tester) async {
-    // Build our widget with showFooter set to false
+
     await tester.pumpWidget(
       MaterialApp(
         home: Scaffold(
