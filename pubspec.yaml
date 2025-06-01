@@ -2,6 +2,8 @@ name: adaptive_ticket_view
 description: "A customizable Flutter widget for creating beautiful ticket views with dynamic content and styling options."
 version: 0.0.1
 homepage: https://github.com/tejaswini-dev-techie/adaptive_ticket_view
+repository: https://github.com/tejaswini-dev-techie/adaptive_ticket_view
+license: MIT
 
 environment:
   sdk: ^3.6.1
