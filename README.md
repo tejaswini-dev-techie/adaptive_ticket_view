@@ -24,6 +24,11 @@ A customizable Flutter widget for creating beautiful ticket views with dynamic c
 - 📐 Automatic height calculation
 - 🎭 Beautiful ticket shape with cutouts
 
+## Visual Preview
+
+![Screenshot_2025_0601_163836](https://github.com/user-attachments/assets/17792580-71ce-4103-a97e-d228a46a0e34)
+
+
 ## Installation
 
 Add this to your package's `pubspec.yaml` file:
